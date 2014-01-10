@@ -1,0 +1,9 @@
+.idea
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+/assets/node_modules
+/assets/js/bootstrap.min.js
+/assets/js/html5shiv.js
